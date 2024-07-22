@@ -1,4 +1,4 @@
-# Image Description using Google Generative AI
+# Image Description using Google Gemini Generative AI
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)
